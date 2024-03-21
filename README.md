@@ -8,8 +8,8 @@
 How to run with live GUI?
 Python v3.10.1
 1. Install matplotlib. terminal/cmd : pip install matplotlib 
-2. Run in Malusslaw.py 
-3. Write in TextBox: 0 <= x <= 1 | 0 <= y <= 50 (you can change this value) 
+2. Run Malusslaw.py 
+3. Write in TextBox: 0 <= x <= 1 | 0 <= y <= 50 (you can change this values) 
 >format input: num1;num2 | ex. 0.03;9 (then press Enter)
 
 How to run with Google Cola?
