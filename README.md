@@ -12,7 +12,7 @@ Python v3.10.1
 3. Write in TextBox: 0 <= x <= 1 | 0 <= y <= 50 (you can change this values) 
 >format input: num1;num2 | ex. 0.03;9 (then press Enter)
 
-How to run with Google Cola?
+How to run with Google Colab?
 1. Open your browser and paste: https://colab.google/
 2. Click "New Notebook"
 3. Paste code from MalusslawColab.py
